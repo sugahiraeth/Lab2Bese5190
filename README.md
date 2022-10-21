@@ -3,6 +3,8 @@
 
 ## 1.The working LED GIF
 
+We made the LED blink and stay on when any number > 5 is entered, and turn off and stay off when any number <5 is entered. Code can be seen in the same repo.
+
 ![](https://github.com/sugahiraeth/Lab2Bese5190/blob/9d7159ea08b25dfca11d29cb35d36b376e7f6942/ledREPLControl.gif)
 
 ## 2. Project Proposal
