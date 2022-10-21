@@ -15,9 +15,13 @@ For this, we will take character inputs via REPL, and make an LED array display 
 
 This would be a logical extension to the gpio blinking task, and make use of multiple GPIO Pins, while based on a simple premise.
 
+	Extended goal : We can make a receiver using LDR, and use ADC to identify the morse code back on the PC.
+
 ## 3. Components list
 
   Multiple LEDs( approx. 5 )
   Resistors (360 Ohm x5, 250 Ohm x5)
   Proto-board/Breadboard
   Jumper wires(At least 10)
+	LDR X2
+	BC 547 npn transistorx1
