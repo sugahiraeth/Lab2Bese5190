@@ -7,4 +7,15 @@
 
 ## 2. Project Proposal
 
+We plan to make a LED Morse code converter, and output visualizer.
+
+For this, we will take character inputs via REPL, and make an LED array display the corresponding Dots and Dashes as output, then wait for the next character input from user.
+
+This would be a logical extension to the gpio blinking task, and make use of multiple GPIO Pins, while based on a simple premise.
+
 ## 3. Components list
+
+  Multiple LEDs( approx. 5 )
+  Resistors (360 Ohm x5, 250 Ohm x5)
+  Proto-board/Breadboard
+  Jumper wires(At least 10)
