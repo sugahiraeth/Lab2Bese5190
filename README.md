@@ -15,7 +15,6 @@ For this, we will take character inputs via REPL, and make an LED array display 
 
 This would be a logical extension to the gpio blinking task, and make use of multiple GPIO Pins, while based on a simple premise.
 
-	Extended goal if time permits:  We can make a receiver using LDR, and use ADC to record the resulting waveform on the pc.
 
 ## 3. Components list
 
@@ -23,5 +22,3 @@ This would be a logical extension to the gpio blinking task, and make use of mul
   Resistors (360 Ohm x5, 250 Ohm x5)
   Proto-board/Breadboard
   Jumper wires(At least 10)
-	LDR X2
-	BC 547 npn transistorx1
