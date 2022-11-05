@@ -5,7 +5,7 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2A
     Tested on: Lenovo Legion Slim-7, Windows-11; ASUS ROG GL-552 VW, Windows-10
 
 ## GIF of oscilloscope trace when the ADPS is stimulated:
-![](https://github.com/sugahiraeth/Lab2Bese5190/blob/main/Parts/Part5/Idle_mode.png)
+![](https://github.com/sugahiraeth/Lab2Bese5190/blob/main/Parts/Part5/p5_op.gif)
 
 
 ## I2C communication oscilloscope traces and explanation:
