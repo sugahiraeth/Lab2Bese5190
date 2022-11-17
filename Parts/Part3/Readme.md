@@ -9,5 +9,4 @@ In the embedded side of the code, we set up different functions to take inputs f
 Required code has been uploaded too.
 
 ### Output
-
-https://github.com/harishramesh98/lab-2b-pre/blob/1ffbf0ea2d50e374bd2d128d4ca06cbfe807da5b/part_3/images/WhatsApp%20Video%202022-11-09%20at%2012.58.10%20AM.mp4
+https://user-images.githubusercontent.com/38978733/200754493-7e86f98b-95b5-43e1-8a69-f323ce21f426.mp4
