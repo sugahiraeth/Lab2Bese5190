@@ -10,8 +10,19 @@ For part 9 we are using the APDS sensor data, and checking the colour packet sen
 1. to the pio
 2. to the ws2812 ( Neopixel LED )
 
-We also saw the 
+We also noted the "C" channel value, as a suitable proxy for the ambient brightness level during the experiment. We conducted the experiment in both dark and bright room conditions, and adjusted the ADATA register to suitably small integration time, so the Neopixel closely tracks the colour and brightness that is sensed by APDS coour sensor.
+
+
 
 ### Output
+dark room :
+
+
+https://user-images.githubusercontent.com/113575268/202830177-66361248-1108-4bae-98ee-8b7b044e3ac7.mp4
+
+
+bright room :
+
+
 https://user-images.githubusercontent.com/113575268/202638687-ac837aa6-576f-47f8-addb-2be3d7792d4c.mp4
 
