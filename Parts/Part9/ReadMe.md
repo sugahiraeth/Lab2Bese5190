@@ -18,11 +18,16 @@ We also noted the "C" channel value, as a suitable proxy for the ambient brightn
 dark room :
 
 
-https://user-images.githubusercontent.com/113575268/202830177-66361248-1108-4bae-98ee-8b7b044e3ac7.mp4
+https://user-images.githubusercontent.com/113575268/202831324-d4e10575-0716-43b0-b342-266ed0801e3c.mp4
+
+
 
 
 bright room :
 
 
-https://user-images.githubusercontent.com/113575268/202638687-ac837aa6-576f-47f8-addb-2be3d7792d4c.mp4
+https://user-images.githubusercontent.com/113575268/202831330-67ec3a23-82b4-4242-a092-ac599e38f2ee.mp4
+
+
+
 
